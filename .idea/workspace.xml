@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="2Lesson">
+    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="3Lesson">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/1-jsbasics.js" root0="FORCE_HIGHLIGHTING" />
@@ -65,7 +69,9 @@
       <updated>1664698087906</updated>
       <workItem from="1664698089604" duration="5337000" />
       <workItem from="1667238637103" duration="1118000" />
-      <workItem from="1667239772892" duration="4806000" />
+      <workItem from="1667239772892" duration="5040000" />
+      <workItem from="1667296487728" duration="94000" />
+      <workItem from="1667313812466" duration="4422000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>
@@ -88,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667240373165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3Lesson">
+      <created>1667244592402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667244592402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1Lesson" />
     <MESSAGE value="2Lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="2Lesson" />
+    <MESSAGE value="3Lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="3Lesson" />
   </component>
 </project>
