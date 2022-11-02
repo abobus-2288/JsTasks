@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="3Lesson">
+    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="4Lesson">
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,7 +51,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -71,7 +72,9 @@
       <workItem from="1667238637103" duration="1118000" />
       <workItem from="1667239772892" duration="5040000" />
       <workItem from="1667296487728" duration="94000" />
-      <workItem from="1667313812466" duration="4422000" />
+      <workItem from="1667313812466" duration="7224000" />
+      <workItem from="1667324082851" duration="1149000" />
+      <workItem from="1667405557130" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667244592402</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4Lesson">
+      <created>1667321254415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667321254415</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +132,7 @@
     <MESSAGE value="1Lesson" />
     <MESSAGE value="2Lesson" />
     <MESSAGE value="3Lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="3Lesson" />
+    <MESSAGE value="4Lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="4Lesson" />
   </component>
 </project>
