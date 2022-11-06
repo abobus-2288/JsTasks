@@ -102,9 +102,9 @@
 
 // // N-11
 //
-// let var11_1 = Number(prompt("Введите число (Задание 11)"));
+// let prompt11 = Number(prompt("Введите число (Задание 11)"));
 //
-// for (let i = 0 ; i <= var11_1; i++) {
+// for (let i = 0 ; i <= prompt11; i++) {
 //     console.log(i**2)
 // }
 
