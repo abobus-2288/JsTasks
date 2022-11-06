@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="2Lesson Remade">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1667423656338" duration="3500000" />
       <workItem from="1667480078799" duration="289000" />
       <workItem from="1667638956011" duration="2668000" />
-      <workItem from="1667722678732" duration="3383000" />
+      <workItem from="1667722678732" duration="3613000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>
@@ -131,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667726341916</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2Lesson Remade">
+      <created>1667727164595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667727164595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
