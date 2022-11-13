@@ -19,7 +19,7 @@
 //
 // let country = 'Sweden';
 // let access;
-// country === 'Sweden' ? access = true : access = false;
+// access = country === 'Sweden' ? true : false;
 
 // // N-3
 // // Задание 3
