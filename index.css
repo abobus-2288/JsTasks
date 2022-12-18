@@ -1,0 +1,13 @@
+.p {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#links9 a {
+    display: block;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
