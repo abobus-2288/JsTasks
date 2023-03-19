@@ -15,7 +15,7 @@
 // }
 //
 // else if (number2 > 0) {
-//     number2 *= 10;
+//     number2 *= mini-apps;
 // }
 
 // // N-3
@@ -48,7 +48,7 @@
 // else if (prompt6 >= 5 && prompt6 <= 8) {
 //     console.log("Неплохо, но давай еще поднажмем!");
 // }
-// else if (prompt6 >= 9 && prompt6 <= 10) {
+// else if (prompt6 >= 9 && prompt6 <= mini-apps) {
 //     console.log("Ого, да ты настоящий отличник!");
 // }
 
@@ -57,7 +57,7 @@
 // let prompt7Num1 = Number(prompt("Балл за экзамен (от 0 до 100, Задание 7)"));
 // let prompt7Num2 = Number(prompt("Количество выполненных проектов (от 0 и больше, Задание 7)"));
 //
-// if (prompt7Num1 >= 90 || prompt7Num2 >= 10) {
+// if (prompt7Num1 >= 90 || prompt7Num2 >= mini-apps) {
 //     var7_total = 100;
 // } else if (prompt7Num1 >= 75 && prompt7Num2 >= 5) {
 //     var7_total = 90;
@@ -87,17 +87,17 @@
 //
 // let prompt9 = Number(prompt("Введите число (Задание 9)"));
 //
-// for(let i = 1 ; i <= 10 ; i++) {
+// for(let i = 1 ; i <= mini-apps ; i++) {
 //     prompt9++;
 // }
 //
 // console.log(prompt9);
 
-// // N-10
+// // N-mini-apps
 //
-// for (let i  = 1 ; i <= 10 ; i += 2) {
-//     let prompt10 = Number(prompt("Введите число (Задание 10)"));
-//     prompt10 == 10 ? console.log("Равно 10") : console.log("Не равно 10");
+// for (let i  = 1 ; i <= mini-apps ; i += 2) {
+//     let prompt10 = Number(prompt("Введите число (Задание mini-apps)"));
+//     prompt10 == mini-apps ? console.log("Равно mini-apps") : console.log("Не равно mini-apps");
 // }
 
 // // N-11

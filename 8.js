@@ -75,7 +75,7 @@
 // // Вставить в страницу (в html документ) тег <select>. С помощью js (в цикле) добавить в этот select опции (option) под годы от 1960 по 2020.
 //
 // let select = document.querySelector('select');
-// for (let i = -10 ; i <= 50 ; i++) {
+// for (let i = -mini-apps ; i <= 50 ; i++) {
 //     let option = document.createElement('option');
 //     let date = new Date(1970 + i, 1);
 //     option.innerText = String(date.getFullYear());
@@ -151,8 +151,8 @@
 //    
 // })
 
-// // N-10
-// // Задание 10
+// // N-mini-apps
+// // Задание mini-apps
 // // Добавить к нескольким тегам на странице класс "forRemove". Далее написать JS код, который найдет в HTML все элементы с классом "forRemove" и удалит их.
 // //     ПОДСКАЗКА Для удаления DOM-элементов можно использовать метод element.remove().
 // //     ВАЖНО: Вам нужно удалять не всю коллекцию li, а каждый отдльный li

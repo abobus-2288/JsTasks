@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="10Lesson N1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="10Lesson N3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +61,11 @@
       <recent name="C:\sites\MF-Projects\JsTasks\9" />
       <recent name="C:\sites\MF-Projects\JsTasks" />
     </key>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676194293452</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="10Lesson N3">
+      <created>1679218766161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679218766161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +217,7 @@
     <MESSAGE value="7Lesson" />
     <MESSAGE value="8Lesson" />
     <MESSAGE value="10Lesson N1" />
-    <option name="LAST_COMMIT_MESSAGE" value="10Lesson N1" />
+    <MESSAGE value="10Lesson N3" />
+    <option name="LAST_COMMIT_MESSAGE" value="10Lesson N3" />
   </component>
 </project>
