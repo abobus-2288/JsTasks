@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 8px;
+}
+
+@font-face {
+    font-family: "formular";
+    src: url('./assets/fonts/formular-black-webfont-fed2a7f937f130dfbd8b1856531cc626f055212ada5cf2a9a04fb1419febea0f.woff2') format("woff2"), url('./assets/fonts/formular-black-webfont-fed2a7f937f130dfbd8b1856531cc626f055212ada5cf2a9a04fb1419febea0f.woff2') format("woff");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "formular";
+    src: url('./assets/fonts/formular-medium-webfont-8c5634c710b0e3e6ded6602b41583382b635a8bacdb22b571ef1215144b0daad.woff2') format("woff2"), url('./assets/fonts/formular-medium-webfont-8c5634c710b0e3e6ded6602b41583382b635a8bacdb22b571ef1215144b0daad.woff2') format("woff");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "formular";
+    src: url('./assets/fonts/formular-bold-webfont-34e6ac4093f6e6a87cb4c9c4bfaa06b24f7d8812a6599cd0847c79a7bb4c2bf6.woff2') format("woff2"), url('./assets/fonts/formular-bold-webfont-34e6ac4093f6e6a87cb4c9c4bfaa06b24f7d8812a6599cd0847c79a7bb4c2bf6.woff2') format("woff");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "formular";
+    src: url('./assets/fonts/formular-black-webfont-fed2a7f937f130dfbd8b1856531cc626f055212ada5cf2a9a04fb1419febea0f.woff2') format("woff2"), url('./assets/fonts/formular-black-webfont-fed2a7f937f130dfbd8b1856531cc626f055212ada5cf2a9a04fb1419febea0f.woff2') format("woff");
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+}
+
+body {
+    font-family: "formular", -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    letter-spacing: -0.015em;
+    text-rendering: optimizeLegibility;
+    background-color: #f5f5f7;
+}
+
+a {
+    color: #283cdc;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#burger {
+    padding-left: 2rem;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 44px;
+
+    border: none;
+    background-color: transparent;
+}
+
+#burger.opened {
+    background-image: url('assets/close.svg');
+}
+
+#burger:not(.opened) {
+    background-image: url('assets/burger.svg');
+}
+
+.burger__menu {
+    width: 416px;
+
+    visibility: hidden;
+    opacity: 0;
+
+    height: 100%;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.075), 0 4px 4px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+}
+
+.burger__menu.opened {
+    visibility: visible;
+    opacity: 100;
+}
+
+.menu__block {
+    border-bottom: 1px solid rgba(34, 34, 34, 0.1);
+}
+
+label {
+    width: 100%;
+    height: 100%;
+}
+
+input {
+    border: none;
+    flex-basis: 80%;
+
+    padding: 2rem;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    color: #222222;
+    font-size: 1.875rem;
+    font-weight: 400;
+    line-height: 2.125rem;
+    letter-spacing: -0.015em;
+
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+input:focus {
+    background-color: white;
+    outline: none;
+}
+
+input::placeholder {
+    opacity: 20%;
+}
+
+.search__button {
+    background-color: transparent;
+    border: none;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: auto;
+    padding: 2rem;
+}
+
+.input {
+    width: 100%;
+    height: 56px;
+
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+
+    position: relative;
+
+    background-color: transparent;
+}
+
+.links {
+    display: flex;
+    padding: 2rem 0;
+    border-bottom: 1px solid rgba(34, 34, 34, 0.1);
+}
+
+.menu__col {
+    flex: 0 0 50%;
+    min-width: 100px;
+    max-width: 250px;
+}
+
+.menu__nav-item, .menu__link {
+    display: inline-block;
+    width: 100%;
+    height: 38px;
+    padding: 1rem 2rem;
+    color: #222222;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 2.625rem;
+    transition: color 0.1s ease-in-out;
+}
+
+.menu__nav-item, .menu__link {
+    font-size: 1.875rem;
+}

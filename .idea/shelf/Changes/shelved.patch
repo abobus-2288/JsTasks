@@ -1,0 +1,105 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e0e96ae5-91b4-423d-a6ee-c0fc6705fce7\" name=\"Changes\" comment=\"10Lesson N1\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitToolBoxStore\">\r\n    <option name=\"projectConfigVersion\" value=\"5\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/1-jsbasics.js\" root0=\"FORCE_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/2.js\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2FZSPMgVuPpjKWWTD9ZslKpznAy\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/sites/MF-Projects/JsTasks&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\sites\\MF-Projects\\JsTasks\\9\" />\r\n      <recent name=\"C:\\sites\\MF-Projects\\JsTasks\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e0e96ae5-91b4-423d-a6ee-c0fc6705fce7\" name=\"Changes\" comment=\"\" />\r\n      <created>1664698087906</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1664698087906</updated>\r\n      <workItem from=\"1664698089604\" duration=\"5337000\" />\r\n      <workItem from=\"1667238637103\" duration=\"1118000\" />\r\n      <workItem from=\"1667239772892\" duration=\"5040000\" />\r\n      <workItem from=\"1667296487728\" duration=\"94000\" />\r\n      <workItem from=\"1667313812466\" duration=\"7224000\" />\r\n      <workItem from=\"1667324082851\" duration=\"1149000\" />\r\n      <workItem from=\"1667405557130\" duration=\"3644000\" />\r\n      <workItem from=\"1667423656338\" duration=\"3500000\" />\r\n      <workItem from=\"1667480078799\" duration=\"289000\" />\r\n      <workItem from=\"1667638956011\" duration=\"2901000\" />\r\n      <workItem from=\"1667917665832\" duration=\"599000\" />\r\n      <workItem from=\"1668180791594\" duration=\"598000\" />\r\n      <workItem from=\"1668322159220\" duration=\"2574000\" />\r\n      <workItem from=\"1668435568346\" duration=\"603000\" />\r\n      <workItem from=\"1668619708342\" duration=\"107000\" />\r\n      <workItem from=\"1669536421007\" duration=\"2912000\" />\r\n      <workItem from=\"1669544789138\" duration=\"329000\" />\r\n      <workItem from=\"1670141933399\" duration=\"5259000\" />\r\n      <workItem from=\"1670357421458\" duration=\"9000\" />\r\n      <workItem from=\"1670746801162\" duration=\"868000\" />\r\n      <workItem from=\"1670747681883\" duration=\"53000\" />\r\n      <workItem from=\"1670747748056\" duration=\"643000\" />\r\n      <workItem from=\"1670748404167\" duration=\"3564000\" />\r\n      <workItem from=\"1670873815878\" duration=\"82000\" />\r\n      <workItem from=\"1671351800742\" duration=\"4677000\" />\r\n      <workItem from=\"1671892502544\" duration=\"74000\" />\r\n      <workItem from=\"1671892590758\" duration=\"9000\" />\r\n      <workItem from=\"1673769788570\" duration=\"2700000\" />\r\n      <workItem from=\"1673885952141\" duration=\"27000\" />\r\n      <workItem from=\"1674375675644\" duration=\"2976000\" />\r\n      <workItem from=\"1674380210769\" duration=\"1405000\" />\r\n      <workItem from=\"1674402517190\" duration=\"2749000\" />\r\n      <workItem from=\"1675586006717\" duration=\"1592000\" />\r\n      <workItem from=\"1676191475106\" duration=\"2432000\" />\r\n      <workItem from=\"1676193989794\" duration=\"1977000\" />\r\n      <workItem from=\"1677320912461\" duration=\"227000\" />\r\n      <workItem from=\"1677400189721\" duration=\"1062000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"1Lesson\">\r\n      <created>1664699513681</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1664699513681</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"2Lesson\">\r\n      <created>1667240284347</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667240284347</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"2Lesson\">\r\n      <created>1667240373165</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667240373165</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"3Lesson\">\r\n      <created>1667244592402</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667244592402</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"4Lesson\">\r\n      <created>1667321254415</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667321254415</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"5Lesson\">\r\n      <created>1667406181845</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667406181845</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"6Lesson\">\r\n      <created>1667641790800</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1667641790800</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"7Lesson\">\r\n      <created>1668328274006</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668328274006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"8Lesson\">\r\n      <created>1671352894655</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1671352894656</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"10Lesson N1\">\r\n      <created>1676194293452</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1676194293452</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"1Lesson\" />\r\n    <MESSAGE value=\"2Lesson\" />\r\n    <MESSAGE value=\"3Lesson\" />\r\n    <MESSAGE value=\"4Lesson\" />\r\n    <MESSAGE value=\"5Lesson\" />\r\n    <MESSAGE value=\"6Lesson\" />\r\n    <MESSAGE value=\"7Lesson\" />\r\n    <MESSAGE value=\"8Lesson\" />\r\n    <MESSAGE value=\"10Lesson N1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"10Lesson N1\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 798fa2ab138e595e559007dd383d1a065b946f54)
++++ b/.idea/workspace.xml	(date 1679218664398)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="10Lesson N1">
++    <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="10Lesson N2">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -42,23 +42,28 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/sites/MF-Projects/JsTasks&quot;,
+-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "DefaultHtmlFileTemplate": "HTML File",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "ignore.virus.scanning.warn.message": "true",
++    "last_opened_file_path": "C:/Users/ucta4/Documents/Sites/MfProjects/10/3/assets/fonts",
++    "list.type.of.created.stylesheet": "CSS",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "preferences.editor",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="C:\Users\ucta4\Documents\Sites\MfProjects\10\3\assets\fonts" />
++    </key>
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\sites\MF-Projects\JsTasks\9" />
+       <recent name="C:\sites\MF-Projects\JsTasks" />
+@@ -108,7 +113,14 @@
+       <workItem from="1676191475106" duration="2432000" />
+       <workItem from="1676193989794" duration="1977000" />
+       <workItem from="1677320912461" duration="227000" />
+-      <workItem from="1677400189721" duration="1062000" />
++      <workItem from="1677400189721" duration="5315000" />
++      <workItem from="1677435075527" duration="159000" />
++      <workItem from="1677435258808" duration="138000" />
++      <workItem from="1677678977554" duration="595000" />
++      <workItem from="1677764579396" duration="595000" />
++      <workItem from="1677768974663" duration="800000" />
++      <workItem from="1678613678872" duration="789000" />
++      <workItem from="1679213042721" duration="4079000" />
+     </task>
+     <task id="LOCAL-00001" summary="1Lesson">
+       <created>1664699513681</created>
+@@ -180,7 +192,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1676194293452</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="10Lesson N2">
++      <created>1677401311062</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1677401311062</updated>
++    </task>
++    <option name="localTasksCounter" value="12" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -207,6 +226,7 @@
+     <MESSAGE value="7Lesson" />
+     <MESSAGE value="8Lesson" />
+     <MESSAGE value="10Lesson N1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="10Lesson N1" />
++    <MESSAGE value="10Lesson N2" />
++    <option name="LAST_COMMIT_MESSAGE" value="10Lesson N2" />
+   </component>
+ </project>
+\ No newline at end of file
