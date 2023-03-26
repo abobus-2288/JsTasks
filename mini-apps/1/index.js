@@ -1,18 +1,17 @@
 let closeButton = document.getElementById('popup__close')
 let openButton = document.getElementById('button')
 
-const onClick = (e) => {
-    e.preventDefault()
+const onClick = () => {
 
-    let popup = document.getElementById('popup')
+	let popup = document.getElementById('popup')
 
-    popup.classList.toggle('opened')
+	popup.classList.toggle('opened')
 }
 
 const onClickWindow = (e) => {
-    if (e.target.id !== 'popup__content' && e.target.id === 'popup') {
-        onClick(e)
-    }
+	if (e.target.id === 'popup') {
+		onClick(e)
+	}
 }
 
 closeButton.onclick = onClick

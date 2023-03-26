@@ -17,6 +17,10 @@ section:first-of-type {
     background-color: hotpink;
 }
 
+button {
+    cursor: pointer;
+}
+
 #button {
     background-color: darkviolet;
 
