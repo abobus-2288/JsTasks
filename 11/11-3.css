@@ -1,0 +1,25 @@
+body {
+
+}
+
+.select {
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+
+    padding: 0 5px;
+
+    background: rgba(0, 0, 0, 0.3);
+}
+
+img {
+    width: 256px;
+    margin: 10px;
+    height: 144px;
+}
+
+.active {
+    transform: scale(1.05);
+    transition-duration: .5s;
+}
