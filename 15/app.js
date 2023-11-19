@@ -16,12 +16,12 @@ setInterval(() => {
 
 
 
-const createDays = (date, img, temp) => {
+const createDays = (date, time, img, temp) => {
     const template = `
         <li class="forecastData">
                 <div class="forecastDataCol">
                     <span id="dayDate" class="dayDate">${date}</span>
-                    <span id="dayDateTime" class="dayDateTime">12:00:00</span>
+                    <span id="dayDateTime" class="dayDateTime">${time}</span>
                 </div>
                 <div class="forecastDataCol">
                     <img class="dayImg" src="http://openweathermap.org/img/wn/${img}@2x.png" alt="weather"/>
@@ -52,7 +52,7 @@ fetch(`https://api.openweathermap.org/data/3.0/onecall?lat=${lat}&lon=${lon}&app
 
         dailyData.forEach(day => {
             let dayDate = new Date(day.dt * 1000)
-            console.log(dayDate)
-            createDays(dayDate.toLocaleDateString(), day.weather[0].icon, (day.temp.day - 273.15).toFixed(0))
+            const dayTime = new Date(dayDate.getTime() - dayDate.getTimezoneOffset() * 60 * 1000).toLocaleTimeString()
+            createDays(dayDate.toLocaleDateString(), dayTime, day.weather[0].icon, (day.temp.day - 273.15).toFixed(0))
         })
     })
