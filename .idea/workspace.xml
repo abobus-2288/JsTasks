@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="16Lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/16/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/16/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/sites/MF-Projects/JsTasks&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -75,6 +74,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\17\youtube" />
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\17\Task2" />
       <recent name="C:\sites\MF-Projects\JsTasks" />
     </key>
   </component>
@@ -148,6 +149,11 @@
       <workItem from="1701009625955" duration="583000" />
       <workItem from="1701374161537" duration="9000" />
       <workItem from="1701592106212" duration="2827000" />
+      <workItem from="1702801102695" duration="47000" />
+      <workItem from="1702801160541" duration="4584000" />
+      <workItem from="1703441611666" duration="602000" />
+      <workItem from="1705220608482" duration="2316000" />
+      <workItem from="1705223076709" duration="1923000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>

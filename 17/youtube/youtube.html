@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+
+    <script src="youtube.js" defer></script>
+
+    <link rel="stylesheet" href="youtube.css">
+</head>
+<body class="p-2">
+<header>
+    <div class="px-10 flex bg-gray-500 h-16 items-center">
+        <input ID="search" class="mx-4 h-8" type="text" placeholder="Search">
+        <button id="submit" class="mr-4 bg-yellow-500 h-8 w-24">Найти видео</button>
+    </div>
+</header>
+<main>
+    <!--Current video-->
+    <div id="player" class="p-10 flex bg-yellow-500 h-fit items-center">
+
+    </div>
+
+    <!--List of videos-->
+    <div id="list" class="px-10 flex bg-gray-500 h-40 items-center">
+
+    </div>
+</main>
+</body>
+</html>
