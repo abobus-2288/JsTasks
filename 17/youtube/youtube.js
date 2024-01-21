@@ -27,6 +27,7 @@ const input = document.getElementById('search')
 const submit = document.getElementById('submit')
 const player = document.getElementById('player')
 const list = document.getElementById('list')
+const form = document.getElementById('form')
 
 const createPlayer = (id) => {
     const template = `
@@ -54,7 +55,7 @@ const deleteList = () => {
     list.innerHTML = ''
 }
 
-submit.addEventListener('click', (e) => {
+form.addEventListener('submit', (e) => {
     e.preventDefault()
 
     const search = input.value

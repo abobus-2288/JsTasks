@@ -22,10 +22,10 @@ const input = document.getElementById('username')
 const profile = document.getElementById('profile')
 
 const showUserData = (data) => {
-    const {avatar_url, name, html_url, created_at, public_repos} = data
+    const {avatar_url, name, html_url, created_at, public_repos, login} = data
 
     const template = `
-        <h1 class="text-3xl font-bold mb-4">${name}</h1>
+        <h1 class="text-3xl font-bold mb-4">${name ? name: login}</h1>
         <img class="rounded-full w-40 mb-4" src="${avatar_url}" alt="${name}" />
         <p class="mb-4 text-lg font-bold"><a href="${html_url}">${html_url}</a></p>
         <p class="mb-4">${created_at}</p>
@@ -59,6 +59,8 @@ form.onsubmit = async (e) => {
             showUserData(data)
         })
         .catch((err) => {
-            console.log(err)
+            if (err.message.includes('404')) {
+                profile.innerHTML = '<h1 class="text-3xl font-bold mb-4">User not found</h1>'
+            }
         })
 }
