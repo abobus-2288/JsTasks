@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0e96ae5-91b4-423d-a6ee-c0fc6705fce7" name="Changes" comment="17Lesson исправленный">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/task3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/17/task3/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/youtube/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/17/youtube/youtube.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17/youtube/youtube.js" beforeDir="false" afterPath="$PROJECT_DIR$/17/youtube/youtube.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +22,8 @@
       <list>
         <option value="Dockerfile" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,12 +68,13 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\18" />
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\17\youtube" />
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\17\Task2" />
       <recent name="C:\sites\MF-Projects\JsTasks" />
@@ -157,7 +155,9 @@
       <workItem from="1703441611666" duration="602000" />
       <workItem from="1705220608482" duration="2316000" />
       <workItem from="1705223076709" duration="2573000" />
-      <workItem from="1705826017922" duration="2105000" />
+      <workItem from="1705826017922" duration="5527000" />
+      <workItem from="1706398777260" duration="56000" />
+      <workItem from="1706429414410" duration="5147000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>
@@ -285,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705225042862</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="17Lesson исправленный">
+      <option name="closed" value="true" />
+      <created>1705828147576</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705828147576</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

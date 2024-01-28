@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task 1</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+
+    <style type="text/tailwindcss">
+    @layer utilities {
+      .clicked {
+        @apply bg-gray-100;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="flex flex-row">
+    <div class="flex h-screen flex-col justify-between border-e bg-white">
+        <div class="px-4 py-6">
+            <ul class="mt-6 space-y-1" id="list">
+            </ul>
+        </div>
+    </div>
+    <div class="flex flex-col pt-6 ml-6 w-[30%]" id="info">
+
+    </div>
+</div>
+</body>
+</html>
