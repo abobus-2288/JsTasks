@@ -61,7 +61,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/sites/MF-Projects/JsTasks",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/eugene/Projects/Myfreedom/js-tasks/19",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,6 +73,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\19" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\18" />
       <recent name="\\wsl.localhost\Ubuntu-22.04\home\eugene\Projects\Myfreedom\js-tasks\17\youtube" />
@@ -159,6 +162,7 @@
       <workItem from="1706398777260" duration="56000" />
       <workItem from="1706429414410" duration="5858000" />
       <workItem from="1707035809724" duration="29000" />
+      <workItem from="1707035853991" duration="5363000" />
     </task>
     <task id="LOCAL-00001" summary="1Lesson">
       <created>1664699513681</created>
@@ -302,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706435497865</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="18Lesson">
+      <option name="closed" value="true" />
+      <created>1707035893220</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1707035893220</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
